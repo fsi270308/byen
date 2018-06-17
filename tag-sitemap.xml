@@ -2,15 +2,22 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://byen.bomizo.ml/tags/Hexo/</loc>
-        <lastmod>2018-05-04T12:04:52.648Z</lastmod>
+        <loc>http://byen.bomizo.ml/tags/%E9%B8%A1%E6%B1%A4/</loc>
+        <lastmod>2018-06-13T07:38:29.265Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://byen.bomizo.ml/tags/%E6%B4%BB%E5%8A%A8/</loc>
+        <lastmod>2018-06-17T07:35:43.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://byen.bomizo.ml/tags/%E5%8D%9A%E5%AE%A2/</loc>
-        <lastmod>2018-05-04T12:04:52.648Z</lastmod>
+        <lastmod>2018-06-17T07:48:34.908Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
